@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/experimentalLab/static/css/main.f2b0edb6.css",
+    "main.css": "/experimentalLab/static/css/main.7d8ab424.css",
     "main.js": "/experimentalLab/static/js/main.e963f3cb.js",
     "static/js/787.63a3eb05.chunk.js": "/experimentalLab/static/js/787.63a3eb05.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/experimentalLab/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
@@ -36,12 +36,12 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/experimentalLab/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "/experimentalLab/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/experimentalLab/index.html",
-    "main.f2b0edb6.css.map": "/experimentalLab/static/css/main.f2b0edb6.css.map",
+    "main.7d8ab424.css.map": "/experimentalLab/static/css/main.7d8ab424.css.map",
     "main.e963f3cb.js.map": "/experimentalLab/static/js/main.e963f3cb.js.map",
     "787.63a3eb05.chunk.js.map": "/experimentalLab/static/js/787.63a3eb05.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2b0edb6.css",
+    "static/css/main.7d8ab424.css",
     "static/js/main.e963f3cb.js"
   ]
 }
